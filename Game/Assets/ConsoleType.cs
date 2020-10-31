@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class ConsoleType : MonoBehaviour
 {
+
+    [SerializeField] float someNumber;
+    
     // Start is called before the first frame update
     void Start()
     {
