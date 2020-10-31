@@ -1,2 +1,4 @@
-# UBC_Team7_Game
- Mediquest - The life of a medical resident
+# Mediquest
+## Team 7
+### UBC GameDev
+The life of a medical resident
